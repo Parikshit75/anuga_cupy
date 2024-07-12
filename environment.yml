@@ -1,9 +1,9 @@
-name: anuga_env
+name: anuga_env_cupy
 channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.9
+  - python=3.10
   - future   
   - gitpython
   - matplotlib
